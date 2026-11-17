@@ -1,0 +1,30 @@
+[
+    {
+        "online": "20",
+        "maxonline": "1000",
+        "color": "FF0000",
+        "x2": "true",
+        "key": "1424",
+        "name": "Samara",
+        "firstname": "Housn RP",
+        "secondname": "",
+        "url": "samara.blackrussia.online",
+        "ip": "5.182.4.101"
+        "port": "1709"
+
+    },
+    {
+        "online": "20",
+        "maxonline": "1000",
+        "color": "FFFFFF",
+        "x2": "true",
+        "key": "1424",
+        "name": "Test",
+        "firstname": "Test",
+        "secondname": "",
+        "url": "volgograd.blackrussia.online",
+        "ip": "",
+        "port": ""
+
+    }
+]
